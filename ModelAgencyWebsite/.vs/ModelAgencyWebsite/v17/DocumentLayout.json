@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|c:\\users\\werne\\source\\repos\\modelagencywebsite\\modelagencywebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|solutionrelative:modelagencywebsite\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|c:\\users\\werne\\source\\repos\\modelagencywebsite\\modelagencywebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|solutionrelative:modelagencywebsite\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|c:\\users\\werne\\source\\repos\\modelagencywebsite\\modelagencywebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|solutionrelative:modelagencywebsite\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|c:\\users\\werne\\source\\repos\\modelagencywebsite\\modelagencywebsite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|solutionrelative:modelagencywebsite\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|c:\\users\\werne\\source\\repos\\modelagencywebsite\\modelagencywebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|solutionrelative:modelagencywebsite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|c:\\users\\werne\\source\\repos\\modelagencywebsite\\modelagencywebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|solutionrelative:modelagencywebsite\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|c:\\users\\werne\\source\\repos\\modelagencywebsite\\modelagencywebsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|solutionrelative:modelagencywebsite\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|c:\\users\\werne\\source\\repos\\modelagencywebsite\\modelagencywebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|solutionrelative:modelagencywebsite\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|c:\\users\\werne\\source\\repos\\modelagencywebsite\\modelagencywebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{09B19D50-169A-47AE-8230-7C2EF077045B}|ModelAgencyWebsite\\ModelAgencyWebsite.csproj|solutionrelative:modelagencywebsite\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ModelAgencyWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ModelAgencyWebsite\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T20:01:38.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ModelAgencyWebsite\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ModelAgencyWebsite\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T20:01:36.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "ModelAgencyWebsite\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\appsettings.Development.json",
+              "RelativeToolTip": "ModelAgencyWebsite\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T19:59:28.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Program.cs",
+              "RelativeDocumentMoniker": "ModelAgencyWebsite\\Program.cs",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Program.cs",
+              "RelativeToolTip": "ModelAgencyWebsite\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:59:35.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\appsettings.json",
+              "RelativeDocumentMoniker": "ModelAgencyWebsite\\appsettings.json",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\appsettings.json",
+              "RelativeToolTip": "ModelAgencyWebsite\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-19T19:59:23.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ModelAgencyWebsite\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ModelAgencyWebsite\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:58:26.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ModelAgencyWebsite\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ModelAgencyWebsite\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-19T19:58:18.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ModelAgencyWebsite\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ModelAgencyWebsite\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T19:58:10.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ModelAgencyWebsite\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\werne\\source\\repos\\ModelAgencyWebsite\\ModelAgencyWebsite\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ModelAgencyWebsite\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-19T19:57:53.783Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
